@@ -1,5 +1,4 @@
 import React, { useEffect, useRef, useState } from "react";
-import { Link } from "react-router-dom";
 
 function HeroComponent() {
   const typedTextRef = useRef(null);
