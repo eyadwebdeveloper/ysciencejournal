@@ -109,16 +109,16 @@ function HeroComponent() {
           <h3 className="bg-text">Featured</h3>
         </div>
         <div className="issues-container">
-          <a className="first issue-link">
+          <a href="https://issues.ys-journal.org/issue_10.html" className="first">
             <img src={Issue10} className="first" alt="Issue 10" />
           </a>
-          <a className="second issue-link">
+          <a href="https://issues.ys-journal.org/issue_9.html" className="second">
             <img src={Issue9} className="second" alt="Issue 9" />
           </a>
-          <a className="third issue-link">
+          <a href="https://issues.ys-journal.org/issue_8.html" className="third">
             <img src={Issue8} className="third" alt="Issue 8" />
           </a>
-          <a className="issues-link issue-link">
+          <a href="https://issues.ys-journal.org" className="issues-link">
             <i className="fa-solid fa-diamond-turn-right"></i>
             <span>View all issues</span>
           </a>
