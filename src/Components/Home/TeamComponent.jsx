@@ -22,9 +22,6 @@ import AhmedMoussa from "../../images/advisory/ahmed-moussa.jpeg";
 import MohanadElagan from "../../images/advisory/mohanad-elagan.jpg";
 import ShehabShiref from "../../images/advisory/shehab-sherif.jpg";
 import AbdelrahmanAbdelwahab from "../../images/advisory/abdelrahman-abdelwahab.png";
-import RadwaAshraf from "../../images/advisory/radwa-ashraf.jpeg";
-import MikhaelMounay from "../../images/advisory/mikahel-mounay.jpg";
-import MohamedAbdelmeguid from "../../images/advisory/mohamed-abdelmeguid.jpg";
 import MohamedAbdElHamid from "../../images/advisory/mohamed-abd_elhamid.jpg";
 import MohamedMashhour from "../../images/advisory/mohamed-mashour.jpg";
 
