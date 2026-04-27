@@ -81,7 +81,7 @@ function HeaderComponent() {
                 </Link>
               </li>
               <li>
-                <a href="#" className={getLinkClass("/Issues")}>
+                <a href="https://issues.ys-journal.org" className={getLinkClass("/Issues")}>
                   Issues
                 </a>
               </li>
